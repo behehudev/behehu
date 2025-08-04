@@ -1,0 +1,77 @@
+name: mental_health_ai_app
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  path_provider: ^2.1.2
+  csv: ^5.1.0
+  uuid: ^4.1.0  # <-- Add this line
+  pdf: ^3.10.4
+  printing: ^5.12.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+
+---
+
+## ✅ 2. `.gitignore`
+
+Use this if you haven’t finalized one yet (standard for Flutter):
+
+```gitignore
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+.idea/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+android/.gradle
+android/captures/
+*.iml
+
+# VSCode
+.vscode/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/.dart_tool/
+
+# macOS
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/Generated.xcconfig
+
+# Web
+web/.dart_tool/
+
+# Linux
+linux/flutter/
+
+# Windows
+windows/flutter/
+
+# Firebase
+firebase.json
+firebase-debug.log

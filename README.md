@@ -1,21 +1,84 @@
+# \# Behehu
 
-# mental_health_ai_app
+# 
 
-A new Flutter project.
+# \*\*Behehu\*\* stands for \*\*"Be Healthy Human"\*\* – a global wellness platform built to empower individuals and professionals to improve mental, physical, and lifestyle health through AI, journaling, tracking, and collaboration.
 
-## Getting Started
+# 
 
-This project is a starting point for a Flutter application.
+# ---
 
-A few resources to get you started if this is your first Flutter project:
+# 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# \## 🌱 Vision
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 
 
-# behehu
-A scalable wellness platform for mental and physical health, powered by AI.
+# To help 1 billion people live healthier lives by bridging science, psychology, and technology – one entry, one goal, one step at a time.
+
+# 
+
+# ---
+
+# 
+
+# \## ✨ Key Features (Planned \& Ongoing)
+
+# 
+
+# \- 🧠 Daily journaling (static + prompt-based)
+
+# \- 📈 Mood \& energy tracking with charts
+
+# \- 🧑‍⚕️ Psychologist dashboard to assign/view tasks
+
+# \- 🧍 User wellness modes: Mental | Physical | Medical
+
+# \- 🔔 Daily goals \& reminders
+
+# \- 📄 Export to PDF/CSV
+
+# \- 🎯 AI mentor for motivation \& progress tracking
+
+# 
+
+# ---
+
+# 
+
+# \## 🧰 Tech Stack
+
+# 
+
+# \- \*\*Frontend\*\*: Flutter
+
+# \- \*\*Backend\*\*: Firebase / Node (TBD)
+
+# \- \*\*AI Support\*\*: Local LLMs + OpenAI
+
+# \- \*\*CI/CD\*\*: GitHub Actions
+
+# \- \*\*Deployment\*\*: Android (initial), Web (next)
+
+# 
+
+# ---
+
+# 
+
+# \## 🚀 Getting Started
+
+# 
+
+# ```bash
+
+# git clone https://github.com/behehudev/behehu.git
+
+# cd behehu
+
+# flutter pub get
+
+# flutter run
+
+
 
